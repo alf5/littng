@@ -1,6 +1,6 @@
-name: Fluttergram
-description: A new Flutter application.
-version: 1.2.3+1
+name: LITTng
+description: Next gen LITTng.
+version: 2.0.0-preview
 
 dependencies:
   flutter:

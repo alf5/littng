@@ -1,10 +1,10 @@
-# Fluttergram
+# LITTng
 A working Instagram clone written in Flutter using Firebase / Firestore
 
 # Demo
-[Download the release APK to try out Fluttergram](https://github.com/mdanics/fluttergram/raw/master/app-release.apk) 
+[Download the release APK to try out LITTng](https://github.com/mdanics/LITTng/raw/master/app-release.apk) 
 
-I update Fluttergram with new features and bugs fixes, but the apk may be behind master. Take a look at the [changelog](/CHANGELOG.md) to see the most recent additions to the apk.
+I update LITTng with new features and bugs fixes, but the apk may be behind master. Take a look at the [changelog](/CHANGELOG.md) to see the most recent additions to the apk.
 
 ## Features
 
@@ -53,8 +53,8 @@ I update Fluttergram with new features and bugs fixes, but the apk may be behind
 #### 2. Clone the repo
 
 ```sh
-$ git clone https://github.com/mdanics/fluttergram.git
-$ cd fluttergram/
+$ git clone https://github.com/mdanics/LITTng.git
+$ cd LITTng/
 ```
 
 #### 3. Setup the firebase app
@@ -73,7 +73,7 @@ $ cd fluttergram/
 * Push the function `getFeed` with `firebase deploy --only functions`  In the output, you'll see the getFeed URL, copy that.
 * Replace the url in the `_getFeed` function in `feed.dart` with your cloud function url from the previous step.
 
-_**If this does not work**  and you get the error `Error: Error parsing triggers: Cannot find module './notificationHandler'` Try following [these steps](https://github.com/mdanics/fluttergram/issues/25#issuecomment-434031430). If you are still unable to get it to work please open a new issue._
+_**If this does not work**  and you get the error `Error: Error parsing triggers: Cannot find module './notificationHandler'` Try following [these steps](https://github.com/mdanics/LITTng/issues/25#issuecomment-434031430). If you are still unable to get it to work please open a new issue._
 
 _You may need to create the neccessary index by running `firebase functions:log` and then clicking the link_
 
@@ -114,7 +114,7 @@ Double check install instructions for both
 
 # What's Next?
  - [x] Notificaitons for likes, comments, follows, etc
- - [X] Animations (heart when liking image) [(#77)](https://github.com/mdanics/fluttergram/pull/77)
+ - [X] Animations (heart when liking image) [(#77)](https://github.com/mdanics/LITTng/pull/77)
  - [ ] Improve Caching of Profiles, Images, Etc.
  - [ ] Better post creation, add filters to your image
  - [ ] Custom Camera Implementation
