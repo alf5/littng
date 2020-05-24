@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>127491345392-gv5qsqe0lm6fagcual9gmq94csi3inp2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.127491345392-gv5qsqe0lm6fagcual9gmq94csi3inp2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>127491345392-brb9sul3ho3rdco8lqg3j2ab1hvr6smb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAvMYtFosD4FB9EAr8JKesiQRRhC0zYFJ0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>127491345392</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.thelittapp.littng</string>
+	<key>PROJECT_ID</key>
+	<string>littng</string>
+	<key>STORAGE_BUCKET</key>
+	<string>littng.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:127491345392:ios:af93ccd4ba285b463cab35</string>
+	<key>DATABASE_URL</key>
+	<string>https://littng.firebaseio.com</string>
+</dict>
+</plist>
