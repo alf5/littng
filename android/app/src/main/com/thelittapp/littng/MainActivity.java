@@ -1,4 +1,4 @@
-package me.danics.firestoretest;
+package com.thelittapp.com;
 
 import android.os.Bundle;
 
